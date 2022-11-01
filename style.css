@@ -1,11 +1,10 @@
 html, body {
-    height: 100%;
-    width: 100%;
-  }
-  #header{
-    font-size: 25px;
-  }
-  a{
-    color: white;
-  }
-  
+  height: 100%;
+  width: 100%;
+}
+#header{
+  font-size: 25px;
+}
+a{
+  color: white;
+}
